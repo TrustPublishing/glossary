@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "Semantic Digest",
+  "description": "A Semantic Digest™ is a machine-ingestible, multi-format knowledge object that encodes structured information about a real-world entity for AI retrieval and trust.",
+  "url": "https://trustpublishing.com/glossary/semantic-digest/",
+  "inDefinedTermSet": "https://trustpublishing.com/glossary/",
+  "creator": {
+    "@type": "Person",
+    "name": "David Bynon"
+  },
+  "dateCreated": "2024-11-01",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "keywords": [
+    "Semantic Digest",
+    "TrustPublishing",
+    "AI Visibility",
+    "Structured Content",
+    "TrustGraph"
+  ],
+  "sameAs": [
+    "https://zenodo.org/records/15867126"
+  ]
+}

@@ -1,0 +1,11 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+
+<https://trustpublishing.com/glossary/semantic-digest/>
+    a schema:DefinedTerm ;
+    dcterms:title "Semantic Digest" ;
+    dcterms:description "A Semantic Digest™ is a machine-ingestible, multi-format knowledge object that encodes structured information about a real-world entity for AI retrieval and trust." ;
+    dcterms:creator "David Bynon" ;
+    dcterms:created "2024-11-01" ;
+    schema:inDefinedTermSet <https://trustpublishing.com/glossary/> ;
+    dcterms:license <https://creativecommons.org/licenses/by/4.0/> .
